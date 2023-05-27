@@ -52,7 +52,7 @@ h4 {
     transform: translate(-50%, -50%) scale(1.4);
   }
   100% {
-    transform: translate(-50%, -50%) scale(0);
+    transform: translate(-50%, -50%) scale(1);
   }
 }
 .nums {
